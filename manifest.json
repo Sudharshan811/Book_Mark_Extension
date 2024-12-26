@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "version": "1.1",
+    "name": "Leads tracker",
+    "action":{
+        "default_popup":"javacl4.html",
+        "default_icon":"mona_png.png"
+    }
+    
+}
